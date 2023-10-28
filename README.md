@@ -1,6 +1,6 @@
 # Auto Matchmaking Mod
 **A mod for Titanfall 2 that makes matchmaking a lot easier!**
-
+good morning sir
 ## How To Install And Setup The Auto Matchmaking Mod
 You can install the mod by downloading the `AutoMatchmakingMod_Installer.bat` from the latest release and running it in your Titanfall 2 installalation location. This can be found through Steam/Origin/EA Desktop. After that just launch `NorthstarLauncher.exe` and you're good to go!
 
