@@ -7,7 +7,7 @@ You can install the mod by downloading the `AutoMatchmakingMod_Installer.bat` fr
 If you need any extra help getting the mod working then you can join the Titanfall 2 AMM Discord server [here]. //Discord server is gone
 
 ## What The Auto Matchmaking Mod Does
-Once you have the Auto Matchmaking Mod installed, it will automatically reconnect you to the multiplayer matchmaking menu when you freeze in it and if you were matchmaking when you froze then it'll start matchmaking as soon as you reconnect.
+Once you have the Auto Matchmaking Mod installed, it will automatically reconnect you to the multiplayer matchmaking menu when you freeze in it and if you were matchmaking when you froze then it'll start matchmaking as soon as you reconnect. It also makes some people sneed!
 
 <hr>
 
